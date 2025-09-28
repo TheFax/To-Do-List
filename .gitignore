@@ -1,0 +1,2 @@
+# Ignora il file del database SQLite locale
+db.sqlite
