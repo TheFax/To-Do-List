@@ -2,6 +2,8 @@
 
 A simple, fast, and user-friendly web-based To-Do List application built with PHP, SQLite, and Bootstrap. This project allows you to manage your daily tasks efficiently with a clean interface and intuitive controls.
 
+![Screenshot](https://github.com/TheFax/To-Do-List/blob/main/screenshot.jpg?raw=true)
+
 ## Eisenhower Matrix: Smarter Task Management
 
 **This To-Do List is based on the Eisenhower Matrix (also known as the Eisenhower Decision Matrix), a proven productivity tool for prioritizing tasks.**
